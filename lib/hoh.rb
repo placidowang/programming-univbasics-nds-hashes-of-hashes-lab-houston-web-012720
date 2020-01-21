@@ -66,3 +66,5 @@ def naming_system
 }
 
 end
+
+p naming_system[:label]
